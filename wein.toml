@@ -1,0 +1,4 @@
+base = "https://fleetinglore.github.io/jeyv"
+css = "https://fleetinglore.github.io/css/style.css"
+from_lore = "static"
+to_html = "index"
